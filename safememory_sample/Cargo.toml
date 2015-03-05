@@ -1,0 +1,5 @@
+[package]
+
+name = "safememory_sample"
+version = "0.0.1"
+authors = ["yuchan <yusuke@junkpiano.me>"]
